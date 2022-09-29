@@ -1,6 +1,6 @@
 {
   "name": "yyw-utils",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "js工具库",
   "files": [
     "dist"
@@ -18,7 +18,13 @@
     "build": "vite build",
     "preview": "vite preview"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yyw1227/yyw-utils"
+  },
+  "keywords": [
+    "yyw-utils"
+  ],
   "author": "yyw1227",
   "license": "MIT",
   "devDependencies": {
